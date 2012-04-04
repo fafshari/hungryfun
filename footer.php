@@ -1,0 +1,1 @@
+<footer>2011, Hungryfun created by Farzad Afshari<br>Check out Hungryfun's Google+ page at <a target="_blank" href="http://gplus.to/hungryfun">gplus.to/hungryfun</a><br>Or visit my profile at <a target="_blank" href="http://gplus.to/farzad">gplus.to/farzad</a></footer>
